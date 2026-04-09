@@ -1,3 +1,15 @@
+<div align="right">
+
+<a href="mailto:himasha221d@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/himasha-hettiarachchi-a37577256" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Himasha%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
@@ -10,20 +22,28 @@
 
 ## 🧠 About Me
 
-```python
-himasha = {
-    "role"       : "Undergraduate Student & Developer",
-    "interests"  : ["Full-Stack Web Dev", "AI/ML Enthusiast", "UI/UX Design", "QA Enthusiast"],
-    "currently"  : "Building cool things & leveling up every day",
-    "fun_fact"   : "If there's coffee and cats in the building, I work faster 🐱☕"
-}
+
+<div align="center">
+<table>
+<tr>
+
+<td width="60%" align="left">
+
+```text
+👩‍💻 Undergraduate passionate about building real-world applications  
+🌐 Exploring full-stack development and modern web technologies  
+🧠 Curious about AI/ML and intelligent systems  
+🎨 Love crafting clean and user-friendly UI/UX  
+🧪 Interested in QA and making systems reliable  
+☕ Powered by coffee, cats, and late-night debugging
+
 ```
+</td> <td width="40%" align="right"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/> </td> </tr> </table> </div>
 
----
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
-### 💻 Languages
+###  Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>&nbsp;&nbsp;
@@ -34,7 +54,7 @@ himasha = {
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
 </p>
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>&nbsp;&nbsp;
@@ -42,20 +62,11 @@ himasha = {
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45"/></a>
 </p>
 
-### 🗄️ Databases & Tools
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-</p>
+###  Databases & Tools
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/></a>&nbsp;&nbsp; <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a> </p>
 
----
 
-## 🎮 Pac-Man eating my contributions...
+## My contributions be like...
 
 <div align="center">
 
@@ -67,53 +78,11 @@ himasha = {
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
+## GitHub Stats
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=it23736832&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=it23736832&theme=tokyonight&hide_border=true" />
+<div align="center"> <table> <tr> <td width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=it23736832&theme=tokyonight&hide_border=true" width="100%"/> </td> <td width="50%"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=it23736832&theme=tokyo-night" width="100%"/> </td> </tr> </table> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div>
 
-</div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it23736832&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=it23736832&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="left">
-  <a href="https://github.com/it23736832" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:himasha221d@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/himasha-hettiarachchi-a37577256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=it23736832&icon=5&color=9)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
