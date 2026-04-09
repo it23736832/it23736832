@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 himasha = {
@@ -59,7 +59,7 @@ himasha = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=it23736832&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=it23736832&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -70,9 +70,7 @@ himasha = {
 ## 🤝 Connect with Me
 
 <div align="left">
-  <a href="https://github.com/it23736832" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
   &nbsp;
   <a href="mailto:himasha221d@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
