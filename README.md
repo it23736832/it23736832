@@ -34,7 +34,7 @@
 🌐 Exploring full-stack development and modern web technologies  
 🧠 Curious about AI/ML and intelligent systems  
 🎨 Love crafting clean and user-friendly UI/UX  
-🧪 Interested in QA and making systems reliable  
+🧪 A polygot when it comes to languages  
 ☕ Powered by coffee, cats, and late-night debugging
 
 ```
